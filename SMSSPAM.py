@@ -1,6 +1,5 @@
 import streamlit as st
 import joblib
-
 st.set_page_config(page_title="SMS Spam Classifier")
 st.title("📩 SMS Spam Classifier")
 
